@@ -1,0 +1,16 @@
+{
+  "name": "first-app",
+  "version": "0.0.0",
+  "description": "firstApp",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+   "scripts": {
+     "start": "node app.js",
+     "deploy": "gcloud app deploy"
+    
+  },
+
+  "dependencies": {}
+}

@@ -1,0 +1,1 @@
+﻿exports.httpMsgsFormat = 'JSON';
